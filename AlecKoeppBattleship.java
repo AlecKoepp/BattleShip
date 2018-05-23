@@ -1,5 +1,5 @@
 
-public class BattleShip {
+public class AlecKoeppBattleShip {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
